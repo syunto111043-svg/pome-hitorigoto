@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy Policy - pome-hitorigoto</title>
+<style>
+:root{--bg:#fff;--fg:#1f1f24;--muted:#5d5d66;--line:#e2e2e8;--accent:#c81e4a}
+@media (prefers-color-scheme: dark){:root{--bg:#141418;--fg:#ececf1;--muted:#a4a4ae;--line:#2c2c34;--accent:#ff7a98}}
+body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,"Hiragino Sans","Yu Gothic UI",sans-serif;
+max-width:760px;margin:0 auto;padding:24px 16px 48px;line-height:1.75}
+h1{font-size:24px;margin:0 0 4px}h2{font-size:18px;margin:30px 0 8px;padding-bottom:4px;border-bottom:1px solid var(--line)}
+nav a,a{color:var(--accent)}nav{margin:8px 0 20px}nav a{margin-right:14px}.ja{color:var(--muted)}li{margin:6px 0}
+</style>
+</head>
+<body>
+<h1>Privacy Policy / プライバシーポリシー</h1>
+<p class="ja">pome-hitorigoto（ポメのひとりごとch 投稿ツール）</p>
+<nav><a href="index.html">About</a><a href="terms.html">Terms of Service</a><a href="privacy.html">Privacy Policy</a></nav>
+
+<p>pome-hitorigoto ("the tool") is the publishing tool the operator of the "Pome no Hitorigoto" channel uses to post the channel's own original short videos to the operator's own TikTok account. This policy explains what data the tool handles.</p>
+<p class="ja">pome-hitorigoto（以下「本ツール」）は、「ポメのひとりごとch」の運営者が自分で制作した動画を自分のTikTokアカウントに投稿するためのツールです。本ツールが扱う情報を説明します。</p>
+
+<h2>1. Data we receive from TikTok / TikTokから受け取る情報</h2>
+<ul>
+<li>With the operator's permission (Login Kit): the access token and refresh token, the granted scopes, and the open_id of the connected account.<br><span class="ja">運営者が許可したとき（Login Kit）：アクセストークン・リフレッシュトークン、許可されたスコープ、連携したアカウントの open_id。</span></li>
+<li>user.info.basic: display name and avatar of the connected account.<br><span class="ja">user.info.basic：連携したアカウントの表示名とアイコン。</span></li>
+<li>creator_info/query: nickname, username, avatar, available privacy levels, whether comments / duets / stitches are disabled, and the maximum video duration. They are only displayed on the approval page and are not stored.<br><span class="ja">creator_info/query：ニックネーム・ユーザー名・アイコン、選べる公開範囲、コメント／デュエット／ステッチの設定、動画の最大長。承認ページに表示するだけで、保存しません。</span></li>
+<li>Posting results: the publish_id, the publish status and, when available, the post ID / URL.<br><span class="ja">投稿結果：publish_id、投稿の状態、（あれば）投稿IDとURL。</span></li>
+</ul>
+<p>We do not access followers, direct messages, comments, other users' data, or any data of people who are not the operator.</p>
+<p class="ja">フォロワー、DM、コメント、他のユーザーの情報、運営者以外の人の情報は取得しません。</p>
+
+<h2>2. How we use it / 利用目的</h2>
+<ul>
+<li>To show the operator which account a video will be posted to, and to post the video only after the operator presses "Post" (or "Send to drafts").<br><span class="ja">どのアカウントに投稿されるかを運営者に見せ、運営者が「投稿する」（または「下書きに送る」）を押したときだけ投稿するため。</span></li>
+<li>To record which video was posted where and when, so the same video is not posted twice.<br><span class="ja">どの動画をいつどこへ投稿したかを記録し、二重投稿を防ぐため。</span></li>
+</ul>
+<p>We do not use the data for advertising, profiling, analytics sold to others, or training AI models.</p>
+<p class="ja">広告、プロファイリング、第三者への販売、AIの学習には使いません。</p>
+
+<h2>3. Where it is stored / 保管場所</h2>
+<ul>
+<li>Tokens are stored in a file on the operator's own computer and a posting log in a local database on the same computer. Nothing is stored on a server operated by us.<br><span class="ja">トークンは運営者のPC内のファイルに、投稿の記録は同じPC内のデータベースに保存します。私たちが運営するサーバーには保存しません。</span></li>
+<li>The approval page runs on the operator's computer and is reached from the operator's phone over the home network. It is protected by a long random access key; the phone keeps a cookie holding that key so the operator stays signed in.<br><span class="ja">承認ページは運営者のPCで動き、運営者のスマホから家庭内ネットワーク経由で開きます。長いランダムなアクセスキーで保護し、スマホにはログイン状態を保つためのCookieを保存します。</span></li>
+<li>If the operator chooses to open the page from outside the home, the connection passes through Cloudflare's tunnel service (encrypted HTTPS). Cloudflare's privacy policy applies to that transport.<br><span class="ja">運営者が外出先から開くことを選んだ場合、通信は Cloudflare のトンネル（HTTPSで暗号化）を通ります。その通信には Cloudflare のプライバシーポリシーが適用されます。</span></li>
+</ul>
+
+<h2>4. Sharing / 第三者提供</h2>
+<p>We do not sell, rent or share the data with anyone. Data is sent only to TikTok (to post the video) as the operator instructs, or disclosed when required by law.</p>
+<p class="ja">情報を販売・貸与・共有しません。運営者の指示でTikTokに送る場合（投稿のため）と、法令で求められた場合を除き、第三者に提供しません。</p>
+
+<h2>5. Retention and deletion / 保存期間と削除</h2>
+<ul>
+<li>Tokens are kept until the connection is revoked. Revoking the tool in TikTok (Settings and privacy &gt; Security &gt; Apps and services permissions) stops all access; the operator then deletes the stored token file.<br><span class="ja">トークンは連携を解除するまで保存します。TikTokの「設定とプライバシー」→「セキュリティ」→「アプリとサービスの権限」で解除すると以後アクセスできなくなり、運営者が保存済みのトークンを削除します。</span></li>
+<li>The posting log is kept to prevent duplicate posts and can be deleted at any time by the operator.<br><span class="ja">投稿の記録は二重投稿を防ぐために保存し、運営者がいつでも削除できます。</span></li>
+</ul>
+
+<h2>6. Children / 子ども</h2>
+<p>The tool is used only by the adult operator of the channel and is not directed to children.</p>
+<p class="ja">本ツールはチャンネルの成人の運営者だけが使い、子ども向けではありません。</p>
+
+<h2>7. Changes and contact / 変更・お問い合わせ</h2>
+<p>We will update this page when the tool's handling of data changes. Contact: <a href="mailto:syunto.111043@gmail.com">syunto.111043@gmail.com</a>, or a direct message to @pome_hitorigoto on TikTok or YouTube.</p>
+<p class="ja">情報の扱いが変わったときはこのページを更新します。お問い合わせ：<a href="mailto:syunto.111043@gmail.com">syunto.111043@gmail.com</a>（メール）、またはTikTok・YouTube「@pome_hitorigoto」へのメッセージ。</p>
+
+<p>Effective date / 制定日: 2026-09-28 &nbsp; Last updated / 最終更新: 2026-09-30</p>
+</body>
+</html>
