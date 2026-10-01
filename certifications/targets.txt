@@ -1,0 +1,160 @@
+[SAP]
+SAP Certified – SAP Generative AI Developer
+SAP Certified – Business Transformation Consultant
+SAP Certified – Data Analyst – SAP Analytics Cloud
+SAP Certified – SAP Business Data Cloud
+SAP Certified – SAP Build Developer
+SAP Certified – BTP System Administrator
+SAP Certified – Solution Transformation Consultant with SAP Cloud ALM
+SAP Certified – Project Manager – SAP Activate
+SAP Certified – Implementation Consultant – SAP Ariba Procurement
+SAP Certified – Implementation Consultant – SAP Ariba Supplier Management
+SAP Certified – Managed Gateway for Spend Management and SAP Business Network
+SAP Certified – RISE with SAP Transformation – Agent-Led Toolchain
+SAP Certified – Implementation Consultant – SAP S/4HANA Cloud Public Edition, Financial Accounting
+SAP Certified – Implementation Consultant – SAP S/4HANA Cloud Public Edition, Sales
+SAP Certified – Implementation Consultant – SAP S/4HANA Cloud Public Edition, Sourcing and Procurement
+SAP Certified – SAP S/4HANA Cloud Private Edition, Sales
+SAP Certified – SAP S/4HANA Cloud Private Edition, Production Planning and Manufacturing
+SAP Certified – SAP S/4HANA Cloud Private Edition, Service
+SAP Certified – Business User – SAP Commerce Cloud
+SAP Certified – SAP SuccessFactors Employee Central Core and Position Management
+[SEMRUSH]
+Getting Started with Semrush
+Getting Started with Semrush for Agencies
+AI Search Operating System
+AI Search Operating System: SEO + ASO
+AI PR Toolkit Crash Course
+On-Page SEO and AI Search Essentials with Semrush
+Keyword Research Essentials with Semrush
+Local SEO Essentials with Semrush
+Local Toolkit Crash Course
+Social Media Marketing Crash Course
+Building a Social Listening Program
+Content Marketing Essentials for SEO and AI Search with Semrush
+Content Toolkit Crash Course
+Content-Led SEO with Brian Dean
+Advanced Content Marketing
+Off-Page SEO and AI Search Essentials with Semrush
+Become an AI-Powered Marketer
+AI Visibility Essentials with Semrush
+Semrush SEO Crash Course with Brian Dean
+Content Marketing Principles for Business
+Maximizing ROI through Marketing Analytics: A Practical Guide for In-House Marketers
+[AHREFS]
+Ahrefs Certification
+[GOOGLE]
+Google Ads Search Certification
+Google Ads Display Certification
+Google Ads Video Certification
+Shopping Ads Certification
+Google Ads Apps Certification
+Google Ads Measurement Certification
+Google Analytics Certification
+Google Marketing Platform Certification
+YouTube Music Certification
+Fundamentals of Digital Marketing
+Advanced Omnichannel Certificate
+[HUBSPOT]
+HubSpot Digital Marketing Certification
+HubSpot Content Marketing Certification
+HubSpot Inbound Certification
+HubSpot Inbound Marketing Certification
+HubSpot Inbound Sales Certification
+HubSpot Digital Advertising Certification
+HubSpot Revenue Operations Certification
+HubSpot Social Media Marketing Certification
+HubSpot Reporting Certification
+HubSpot Service Hub Software Certification
+HubSpot Sales Hub Software Certification
+HubSpot Marketing Hub Software Certification
+HubSpot Inbound Marketing Optimization Certification
+HubSpot Sales Enablement Certification
+Integrating With HubSpot I: Foundations
+Implementing AEO With HubSpot
+AI-Readiness Accelerator Workshop
+AI-Augmented HubSpot Stack Mini-Series
+AI for Marketing, Sales, and Service Bootcamp
+[IBM]
+Artificial Intelligence Fundamentals
+Getting Started with Artificial Intelligence
+AI Foundations
+Artificial Intelligence Fundamentals with Capstone Project
+Machine Learning Methods and Tools
+Data Analytics for Machine Learning
+Supervised Learning Methods
+Data Fundamentals
+Cybersecurity Fundamentals
+Getting Started with Cybersecurity
+Information Technology Fundamentals
+Agile Explorer
+Working in a Digital World: Professional Skills
+Working in a Digital World: Essential Skills
+Fundamentals of Sustainability and Technology
+Basic Principles of Design
+Front-End Web Development
+System and Network Security
+Cybersecurity Architecture
+IBM SkillsBuild Data Analytics Certificate
+IBM SkillsBuild Business Analyst Certificate
+IBM SkillsBuild Software Engineering for Web Developers Certificate
+IBM Artificial Intelligence Practitioner Certificate
+Software Engineer Pre-Apprenticeship – V3
+[OTHER MARKETING]
+GDPR Essentials
+Email Marketing Expert Certificate
+Marketing Automation Expert Certificate
+[MELTWATER]
+Media Monitoring with Explore: Core Learning Path
+Certification Level I: Media Monitoring with Meltwater Explore
+Media Monitoring with Explore: Advanced Learning Path
+Social Media Management with Meltwater Engage Learning Path
+Social Listening Analyst Certification: Turn Conversations into Intelligence
+Explore+ Admin: Build and Scale Your Media Intelligence Program
+Agency Specialist Certification Level I: Brand Communications
+Agency Specialist Certification Level I: Consumer, Product, Lifecycle
+Agency Specialist Certification Level I: Crisis & Issues Communications
+Agency Specialist Certification Level II: Brand Communications
+Agency Specialist Certification Level II: Consumer, Product, Lifecycle
+Agency Specialist Certification Level II: Crisis & Issues Communications
+Agency Specialist Certification: Corporate Communications
+Influencer Marketing with Meltwater (Klear): Foundations
+Package Certification Level I: Social – Essentials
+Package Certification Level II: Social – Essentials
+[KLAVIYO]
+Klaviyo Practitioner Certificate
+Klaviyo Service Practitioner Certificate
+Klaviyo Developer Certificate
+Klaviyo Digital Marketing Certificate
+Klaviyo Deliverability Certificate
+[HOOTSUITE]
+Hootsuite Platform Certification
+Hootsuite Social Media Marketing Certification
+Hootsuite Advanced Social Advertising Certification
+Hootsuite Social Selling Certification
+Hootsuite Enterprise Certification
+[SHOPIFY]
+Shopify Academy Verified Skill – Building and Optimizing Online Stores
+Shopify Academy Verified Skill – Shopify POS
+Shopify Academy Verified Skill – B2B Solutions
+Shopify Academy Verified Skill – Headless Commerce
+Shopify Academy Verified Skill – Custom Apps and Themes
+[ASANA]
+Asana Workflow Specialist Certificate
+Asana Administrator Certificate
+Asana Foundations Skill Badge
+Campaign Management Skill Badge
+Resource Management Skill Badge
+AI for Work Skill Badge
+AI Studio Foundations Skill Badge
+[GITLAB]
+GitLab Certified Git Associate
+GitLab Certified Security Associate
+[WRIKE]
+AI Work Platform Core Certification
+Admin Certification
+AI Automation Engineer Certification
+Introduction to Generative AI
+[JAPAN]
+AI活用検定 2級
+AI活用検定 1級

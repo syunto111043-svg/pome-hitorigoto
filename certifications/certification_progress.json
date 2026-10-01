@@ -1,0 +1,586 @@
+{
+ "updated": "2026-10-01",
+ "total": 145,
+ "items": {
+  "SAP Certified – SAP Generative AI Developer": {
+   "provider": "SAP",
+   "status": "UNVERIFIED"
+  },
+  "SAP Certified – Business Transformation Consultant": {
+   "provider": "SAP",
+   "status": "UNVERIFIED"
+  },
+  "SAP Certified – Data Analyst – SAP Analytics Cloud": {
+   "provider": "SAP",
+   "status": "UNVERIFIED"
+  },
+  "SAP Certified – SAP Business Data Cloud": {
+   "provider": "SAP",
+   "status": "UNVERIFIED"
+  },
+  "SAP Certified – SAP Build Developer": {
+   "provider": "SAP",
+   "status": "UNVERIFIED"
+  },
+  "SAP Certified – BTP System Administrator": {
+   "provider": "SAP",
+   "status": "UNVERIFIED"
+  },
+  "SAP Certified – Solution Transformation Consultant with SAP Cloud ALM": {
+   "provider": "SAP",
+   "status": "UNVERIFIED"
+  },
+  "SAP Certified – Project Manager – SAP Activate": {
+   "provider": "SAP",
+   "status": "UNVERIFIED"
+  },
+  "SAP Certified – Implementation Consultant – SAP Ariba Procurement": {
+   "provider": "SAP",
+   "status": "UNVERIFIED"
+  },
+  "SAP Certified – Implementation Consultant – SAP Ariba Supplier Management": {
+   "provider": "SAP",
+   "status": "UNVERIFIED"
+  },
+  "SAP Certified – Managed Gateway for Spend Management and SAP Business Network": {
+   "provider": "SAP",
+   "status": "UNVERIFIED"
+  },
+  "SAP Certified – RISE with SAP Transformation – Agent-Led Toolchain": {
+   "provider": "SAP",
+   "status": "UNVERIFIED"
+  },
+  "SAP Certified – Implementation Consultant – SAP S/4HANA Cloud Public Edition, Financial Accounting": {
+   "provider": "SAP",
+   "status": "UNVERIFIED"
+  },
+  "SAP Certified – Implementation Consultant – SAP S/4HANA Cloud Public Edition, Sales": {
+   "provider": "SAP",
+   "status": "UNVERIFIED"
+  },
+  "SAP Certified – Implementation Consultant – SAP S/4HANA Cloud Public Edition, Sourcing and Procurement": {
+   "provider": "SAP",
+   "status": "UNVERIFIED"
+  },
+  "SAP Certified – SAP S/4HANA Cloud Private Edition, Sales": {
+   "provider": "SAP",
+   "status": "UNVERIFIED"
+  },
+  "SAP Certified – SAP S/4HANA Cloud Private Edition, Production Planning and Manufacturing": {
+   "provider": "SAP",
+   "status": "UNVERIFIED"
+  },
+  "SAP Certified – SAP S/4HANA Cloud Private Edition, Service": {
+   "provider": "SAP",
+   "status": "UNVERIFIED"
+  },
+  "SAP Certified – Business User – SAP Commerce Cloud": {
+   "provider": "SAP",
+   "status": "UNVERIFIED"
+  },
+  "SAP Certified – SAP SuccessFactors Employee Central Core and Position Management": {
+   "provider": "SAP",
+   "status": "UNVERIFIED"
+  },
+  "Getting Started with Semrush": {
+   "provider": "SEMRUSH",
+   "status": "UNVERIFIED"
+  },
+  "Getting Started with Semrush for Agencies": {
+   "provider": "SEMRUSH",
+   "status": "UNVERIFIED"
+  },
+  "AI Search Operating System": {
+   "provider": "SEMRUSH",
+   "status": "UNVERIFIED"
+  },
+  "AI Search Operating System: SEO + ASO": {
+   "provider": "SEMRUSH",
+   "status": "UNVERIFIED"
+  },
+  "AI PR Toolkit Crash Course": {
+   "provider": "SEMRUSH",
+   "status": "UNVERIFIED"
+  },
+  "On-Page SEO and AI Search Essentials with Semrush": {
+   "provider": "SEMRUSH",
+   "status": "UNVERIFIED"
+  },
+  "Keyword Research Essentials with Semrush": {
+   "provider": "SEMRUSH",
+   "status": "UNVERIFIED"
+  },
+  "Local SEO Essentials with Semrush": {
+   "provider": "SEMRUSH",
+   "status": "UNVERIFIED"
+  },
+  "Local Toolkit Crash Course": {
+   "provider": "SEMRUSH",
+   "status": "UNVERIFIED"
+  },
+  "Social Media Marketing Crash Course": {
+   "provider": "SEMRUSH",
+   "status": "UNVERIFIED"
+  },
+  "Building a Social Listening Program": {
+   "provider": "SEMRUSH",
+   "status": "UNVERIFIED"
+  },
+  "Content Marketing Essentials for SEO and AI Search with Semrush": {
+   "provider": "SEMRUSH",
+   "status": "UNVERIFIED"
+  },
+  "Content Toolkit Crash Course": {
+   "provider": "SEMRUSH",
+   "status": "UNVERIFIED"
+  },
+  "Content-Led SEO with Brian Dean": {
+   "provider": "SEMRUSH",
+   "status": "UNVERIFIED"
+  },
+  "Advanced Content Marketing": {
+   "provider": "SEMRUSH",
+   "status": "UNVERIFIED"
+  },
+  "Off-Page SEO and AI Search Essentials with Semrush": {
+   "provider": "SEMRUSH",
+   "status": "UNVERIFIED"
+  },
+  "Become an AI-Powered Marketer": {
+   "provider": "SEMRUSH",
+   "status": "UNVERIFIED"
+  },
+  "AI Visibility Essentials with Semrush": {
+   "provider": "SEMRUSH",
+   "status": "UNVERIFIED"
+  },
+  "Semrush SEO Crash Course with Brian Dean": {
+   "provider": "SEMRUSH",
+   "status": "UNVERIFIED"
+  },
+  "Content Marketing Principles for Business": {
+   "provider": "SEMRUSH",
+   "status": "UNVERIFIED"
+  },
+  "Maximizing ROI through Marketing Analytics: A Practical Guide for In-House Marketers": {
+   "provider": "SEMRUSH",
+   "status": "UNVERIFIED"
+  },
+  "Ahrefs Certification": {
+   "provider": "AHREFS",
+   "status": "UNVERIFIED"
+  },
+  "Google Ads Search Certification": {
+   "provider": "GOOGLE",
+   "status": "UNVERIFIED"
+  },
+  "Google Ads Display Certification": {
+   "provider": "GOOGLE",
+   "status": "UNVERIFIED"
+  },
+  "Google Ads Video Certification": {
+   "provider": "GOOGLE",
+   "status": "UNVERIFIED"
+  },
+  "Shopping Ads Certification": {
+   "provider": "GOOGLE",
+   "status": "UNVERIFIED"
+  },
+  "Google Ads Apps Certification": {
+   "provider": "GOOGLE",
+   "status": "UNVERIFIED"
+  },
+  "Google Ads Measurement Certification": {
+   "provider": "GOOGLE",
+   "status": "UNVERIFIED"
+  },
+  "Google Analytics Certification": {
+   "provider": "GOOGLE",
+   "status": "UNVERIFIED"
+  },
+  "Google Marketing Platform Certification": {
+   "provider": "GOOGLE",
+   "status": "UNVERIFIED"
+  },
+  "YouTube Music Certification": {
+   "provider": "GOOGLE",
+   "status": "UNVERIFIED"
+  },
+  "Fundamentals of Digital Marketing": {
+   "provider": "GOOGLE",
+   "status": "UNVERIFIED"
+  },
+  "Advanced Omnichannel Certificate": {
+   "provider": "GOOGLE",
+   "status": "UNVERIFIED"
+  },
+  "HubSpot Digital Marketing Certification": {
+   "provider": "HUBSPOT",
+   "status": "UNVERIFIED"
+  },
+  "HubSpot Content Marketing Certification": {
+   "provider": "HUBSPOT",
+   "status": "UNVERIFIED"
+  },
+  "HubSpot Inbound Certification": {
+   "provider": "HUBSPOT",
+   "status": "UNVERIFIED"
+  },
+  "HubSpot Inbound Marketing Certification": {
+   "provider": "HUBSPOT",
+   "status": "UNVERIFIED"
+  },
+  "HubSpot Inbound Sales Certification": {
+   "provider": "HUBSPOT",
+   "status": "UNVERIFIED"
+  },
+  "HubSpot Digital Advertising Certification": {
+   "provider": "HUBSPOT",
+   "status": "UNVERIFIED"
+  },
+  "HubSpot Revenue Operations Certification": {
+   "provider": "HUBSPOT",
+   "status": "UNVERIFIED"
+  },
+  "HubSpot Social Media Marketing Certification": {
+   "provider": "HUBSPOT",
+   "status": "UNVERIFIED"
+  },
+  "HubSpot Reporting Certification": {
+   "provider": "HUBSPOT",
+   "status": "UNVERIFIED"
+  },
+  "HubSpot Service Hub Software Certification": {
+   "provider": "HUBSPOT",
+   "status": "UNVERIFIED"
+  },
+  "HubSpot Sales Hub Software Certification": {
+   "provider": "HUBSPOT",
+   "status": "UNVERIFIED"
+  },
+  "HubSpot Marketing Hub Software Certification": {
+   "provider": "HUBSPOT",
+   "status": "UNVERIFIED"
+  },
+  "HubSpot Inbound Marketing Optimization Certification": {
+   "provider": "HUBSPOT",
+   "status": "UNVERIFIED"
+  },
+  "HubSpot Sales Enablement Certification": {
+   "provider": "HUBSPOT",
+   "status": "UNVERIFIED"
+  },
+  "Integrating With HubSpot I: Foundations": {
+   "provider": "HUBSPOT",
+   "status": "UNVERIFIED"
+  },
+  "Implementing AEO With HubSpot": {
+   "provider": "HUBSPOT",
+   "status": "UNVERIFIED"
+  },
+  "AI-Readiness Accelerator Workshop": {
+   "provider": "HUBSPOT",
+   "status": "UNVERIFIED"
+  },
+  "AI-Augmented HubSpot Stack Mini-Series": {
+   "provider": "HUBSPOT",
+   "status": "UNVERIFIED"
+  },
+  "AI for Marketing, Sales, and Service Bootcamp": {
+   "provider": "HUBSPOT",
+   "status": "UNVERIFIED"
+  },
+  "Artificial Intelligence Fundamentals": {
+   "provider": "IBM",
+   "status": "UNVERIFIED"
+  },
+  "Getting Started with Artificial Intelligence": {
+   "provider": "IBM",
+   "status": "UNVERIFIED"
+  },
+  "AI Foundations": {
+   "provider": "IBM",
+   "status": "UNVERIFIED"
+  },
+  "Artificial Intelligence Fundamentals with Capstone Project": {
+   "provider": "IBM",
+   "status": "UNVERIFIED"
+  },
+  "Machine Learning Methods and Tools": {
+   "provider": "IBM",
+   "status": "UNVERIFIED"
+  },
+  "Data Analytics for Machine Learning": {
+   "provider": "IBM",
+   "status": "UNVERIFIED"
+  },
+  "Supervised Learning Methods": {
+   "provider": "IBM",
+   "status": "UNVERIFIED"
+  },
+  "Data Fundamentals": {
+   "provider": "IBM",
+   "status": "UNVERIFIED"
+  },
+  "Cybersecurity Fundamentals": {
+   "provider": "IBM",
+   "status": "UNVERIFIED"
+  },
+  "Getting Started with Cybersecurity": {
+   "provider": "IBM",
+   "status": "UNVERIFIED"
+  },
+  "Information Technology Fundamentals": {
+   "provider": "IBM",
+   "status": "UNVERIFIED"
+  },
+  "Agile Explorer": {
+   "provider": "IBM",
+   "status": "UNVERIFIED"
+  },
+  "Working in a Digital World: Professional Skills": {
+   "provider": "IBM",
+   "status": "UNVERIFIED"
+  },
+  "Working in a Digital World: Essential Skills": {
+   "provider": "IBM",
+   "status": "UNVERIFIED"
+  },
+  "Fundamentals of Sustainability and Technology": {
+   "provider": "IBM",
+   "status": "UNVERIFIED"
+  },
+  "Basic Principles of Design": {
+   "provider": "IBM",
+   "status": "UNVERIFIED"
+  },
+  "Front-End Web Development": {
+   "provider": "IBM",
+   "status": "UNVERIFIED"
+  },
+  "System and Network Security": {
+   "provider": "IBM",
+   "status": "UNVERIFIED"
+  },
+  "Cybersecurity Architecture": {
+   "provider": "IBM",
+   "status": "UNVERIFIED"
+  },
+  "IBM SkillsBuild Data Analytics Certificate": {
+   "provider": "IBM",
+   "status": "UNVERIFIED"
+  },
+  "IBM SkillsBuild Business Analyst Certificate": {
+   "provider": "IBM",
+   "status": "UNVERIFIED"
+  },
+  "IBM SkillsBuild Software Engineering for Web Developers Certificate": {
+   "provider": "IBM",
+   "status": "UNVERIFIED"
+  },
+  "IBM Artificial Intelligence Practitioner Certificate": {
+   "provider": "IBM",
+   "status": "UNVERIFIED"
+  },
+  "Software Engineer Pre-Apprenticeship – V3": {
+   "provider": "IBM",
+   "status": "UNVERIFIED"
+  },
+  "GDPR Essentials": {
+   "provider": "OTHER MARKETING",
+   "status": "UNVERIFIED"
+  },
+  "Email Marketing Expert Certificate": {
+   "provider": "OTHER MARKETING",
+   "status": "UNVERIFIED"
+  },
+  "Marketing Automation Expert Certificate": {
+   "provider": "OTHER MARKETING",
+   "status": "UNVERIFIED"
+  },
+  "Media Monitoring with Explore: Core Learning Path": {
+   "provider": "MELTWATER",
+   "status": "UNVERIFIED"
+  },
+  "Certification Level I: Media Monitoring with Meltwater Explore": {
+   "provider": "MELTWATER",
+   "status": "UNVERIFIED"
+  },
+  "Media Monitoring with Explore: Advanced Learning Path": {
+   "provider": "MELTWATER",
+   "status": "UNVERIFIED"
+  },
+  "Social Media Management with Meltwater Engage Learning Path": {
+   "provider": "MELTWATER",
+   "status": "UNVERIFIED"
+  },
+  "Social Listening Analyst Certification: Turn Conversations into Intelligence": {
+   "provider": "MELTWATER",
+   "status": "UNVERIFIED"
+  },
+  "Explore+ Admin: Build and Scale Your Media Intelligence Program": {
+   "provider": "MELTWATER",
+   "status": "UNVERIFIED"
+  },
+  "Agency Specialist Certification Level I: Brand Communications": {
+   "provider": "MELTWATER",
+   "status": "UNVERIFIED"
+  },
+  "Agency Specialist Certification Level I: Consumer, Product, Lifecycle": {
+   "provider": "MELTWATER",
+   "status": "UNVERIFIED"
+  },
+  "Agency Specialist Certification Level I: Crisis & Issues Communications": {
+   "provider": "MELTWATER",
+   "status": "UNVERIFIED"
+  },
+  "Agency Specialist Certification Level II: Brand Communications": {
+   "provider": "MELTWATER",
+   "status": "UNVERIFIED"
+  },
+  "Agency Specialist Certification Level II: Consumer, Product, Lifecycle": {
+   "provider": "MELTWATER",
+   "status": "UNVERIFIED"
+  },
+  "Agency Specialist Certification Level II: Crisis & Issues Communications": {
+   "provider": "MELTWATER",
+   "status": "UNVERIFIED"
+  },
+  "Agency Specialist Certification: Corporate Communications": {
+   "provider": "MELTWATER",
+   "status": "UNVERIFIED"
+  },
+  "Influencer Marketing with Meltwater (Klear): Foundations": {
+   "provider": "MELTWATER",
+   "status": "UNVERIFIED"
+  },
+  "Package Certification Level I: Social – Essentials": {
+   "provider": "MELTWATER",
+   "status": "UNVERIFIED"
+  },
+  "Package Certification Level II: Social – Essentials": {
+   "provider": "MELTWATER",
+   "status": "UNVERIFIED"
+  },
+  "Klaviyo Practitioner Certificate": {
+   "provider": "KLAVIYO",
+   "status": "UNVERIFIED"
+  },
+  "Klaviyo Service Practitioner Certificate": {
+   "provider": "KLAVIYO",
+   "status": "UNVERIFIED"
+  },
+  "Klaviyo Developer Certificate": {
+   "provider": "KLAVIYO",
+   "status": "UNVERIFIED"
+  },
+  "Klaviyo Digital Marketing Certificate": {
+   "provider": "KLAVIYO",
+   "status": "UNVERIFIED"
+  },
+  "Klaviyo Deliverability Certificate": {
+   "provider": "KLAVIYO",
+   "status": "UNVERIFIED"
+  },
+  "Hootsuite Platform Certification": {
+   "provider": "HOOTSUITE",
+   "status": "UNVERIFIED"
+  },
+  "Hootsuite Social Media Marketing Certification": {
+   "provider": "HOOTSUITE",
+   "status": "UNVERIFIED"
+  },
+  "Hootsuite Advanced Social Advertising Certification": {
+   "provider": "HOOTSUITE",
+   "status": "UNVERIFIED"
+  },
+  "Hootsuite Social Selling Certification": {
+   "provider": "HOOTSUITE",
+   "status": "UNVERIFIED"
+  },
+  "Hootsuite Enterprise Certification": {
+   "provider": "HOOTSUITE",
+   "status": "UNVERIFIED"
+  },
+  "Shopify Academy Verified Skill – Building and Optimizing Online Stores": {
+   "provider": "SHOPIFY",
+   "status": "UNVERIFIED"
+  },
+  "Shopify Academy Verified Skill – Shopify POS": {
+   "provider": "SHOPIFY",
+   "status": "UNVERIFIED"
+  },
+  "Shopify Academy Verified Skill – B2B Solutions": {
+   "provider": "SHOPIFY",
+   "status": "UNVERIFIED"
+  },
+  "Shopify Academy Verified Skill – Headless Commerce": {
+   "provider": "SHOPIFY",
+   "status": "UNVERIFIED"
+  },
+  "Shopify Academy Verified Skill – Custom Apps and Themes": {
+   "provider": "SHOPIFY",
+   "status": "UNVERIFIED"
+  },
+  "Asana Workflow Specialist Certificate": {
+   "provider": "ASANA",
+   "status": "UNVERIFIED"
+  },
+  "Asana Administrator Certificate": {
+   "provider": "ASANA",
+   "status": "UNVERIFIED"
+  },
+  "Asana Foundations Skill Badge": {
+   "provider": "ASANA",
+   "status": "UNVERIFIED"
+  },
+  "Campaign Management Skill Badge": {
+   "provider": "ASANA",
+   "status": "UNVERIFIED"
+  },
+  "Resource Management Skill Badge": {
+   "provider": "ASANA",
+   "status": "UNVERIFIED"
+  },
+  "AI for Work Skill Badge": {
+   "provider": "ASANA",
+   "status": "UNVERIFIED"
+  },
+  "AI Studio Foundations Skill Badge": {
+   "provider": "ASANA",
+   "status": "UNVERIFIED"
+  },
+  "GitLab Certified Git Associate": {
+   "provider": "GITLAB",
+   "status": "UNVERIFIED"
+  },
+  "GitLab Certified Security Associate": {
+   "provider": "GITLAB",
+   "status": "UNVERIFIED"
+  },
+  "AI Work Platform Core Certification": {
+   "provider": "WRIKE",
+   "status": "UNVERIFIED"
+  },
+  "Admin Certification": {
+   "provider": "WRIKE",
+   "status": "UNVERIFIED"
+  },
+  "AI Automation Engineer Certification": {
+   "provider": "WRIKE",
+   "status": "UNVERIFIED"
+  },
+  "Introduction to Generative AI": {
+   "provider": "WRIKE",
+   "status": "UNVERIFIED"
+  },
+  "AI活用検定 2級": {
+   "provider": "JAPAN",
+   "status": "UNVERIFIED"
+  },
+  "AI活用検定 1級": {
+   "provider": "JAPAN",
+   "status": "UNVERIFIED"
+  }
+ }
+}
